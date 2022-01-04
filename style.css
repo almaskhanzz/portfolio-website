@@ -16,14 +16,14 @@ section{
     margin-left: 5%;
     padding-left: 2%;
 }
+.half-width img{
+    width: 100%;
+}
 h1{
     font-size: 50px;
 }
 h1 span{
     color: orange;
-}
-.half-width img{
-    width: 100%;
 }
 .anchor-button{
     text-decoration: none;
